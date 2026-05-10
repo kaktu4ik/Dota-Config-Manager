@@ -3,6 +3,11 @@
 <img width="590" height="310" alt="Скриншот программы" src="https://github.com/user-attachments/assets/a98c71fd-fdfe-49de-8972-aa55a983ac6c" />
 
 **Как использовать?**
+
+**Видео гайд:**
+https://youtu.be/88kAkT2SPZI
+ 
+ **Текстовый гайд:**
  
 1.
 <img width="1553" height="872" alt="Чё за чекбоксы" src="https://github.com/user-attachments/assets/dea41d51-22bd-4ea4-83c6-11105c16adfb" />
