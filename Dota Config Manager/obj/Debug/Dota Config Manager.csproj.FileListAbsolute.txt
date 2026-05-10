@@ -1,0 +1,33 @@
+C:\Users\stufuu\source\repos\Dota Config Manager\bin\Debug\Dota Config Manager.exe.config
+C:\Users\stufuu\source\repos\Dota Config Manager\bin\Debug\Dota Config Manager.exe
+C:\Users\stufuu\source\repos\Dota Config Manager\bin\Debug\Dota Config Manager.pdb
+C:\Users\stufuu\source\repos\Dota Config Manager\obj\Debug\Dota Config Manager.csproj.AssemblyReference.cache
+C:\Users\stufuu\source\repos\Dota Config Manager\obj\Debug\Dota_Config_Manager.Properties.Resources.resources
+C:\Users\stufuu\source\repos\Dota Config Manager\obj\Debug\Dota Config Manager.csproj.GenerateResource.cache
+C:\Users\stufuu\source\repos\Dota Config Manager\obj\Debug\Dota Config Manager.csproj.CoreCompileInputs.cache
+C:\Users\stufuu\source\repos\Dota Config Manager\obj\Debug\Dota Config Manager.exe
+C:\Users\stufuu\source\repos\Dota Config Manager\obj\Debug\Dota Config Manager.pdb
+C:\Users\stufuu\source\repos\Dota Config Manager\obj\Debug\Dota Config Manager.exe.config
+C:\Users\stufuu\source\repos\Dota Config Manager\obj\Debug\Dota_Config_Manager.Form1.resources
+C:\Users\stufuu\Desktop\Dota Config Manager\bin\Debug\Dota Config Manager.exe.config
+C:\Users\stufuu\Desktop\Dota Config Manager\bin\Debug\Dota Config Manager.exe
+C:\Users\stufuu\Desktop\Dota Config Manager\bin\Debug\Dota Config Manager.pdb
+C:\Users\stufuu\Desktop\Dota Config Manager\obj\Debug\Dota Config Manager.csproj.AssemblyReference.cache
+C:\Users\stufuu\Desktop\Dota Config Manager\obj\Debug\Dota Config Manager.exe.config
+C:\Users\stufuu\Desktop\Dota Config Manager\obj\Debug\Dota_Config_Manager.Properties.Resources.resources
+C:\Users\stufuu\Desktop\Dota Config Manager\obj\Debug\Dota Config Manager.csproj.GenerateResource.cache
+C:\Users\stufuu\Desktop\Dota Config Manager\obj\Debug\Dota Config Manager.csproj.CoreCompileInputs.cache
+C:\Users\stufuu\Desktop\Dota Config Manager\obj\Debug\Dota Config Manager.exe
+C:\Users\stufuu\Desktop\Dota Config Manager\obj\Debug\Dota Config Manager.pdb
+D:\Desktop\Dota Config Manager\bin\Debug\Dota Config Manager.exe.config
+D:\Desktop\Dota Config Manager\bin\Debug\Dota Config Manager.exe
+D:\Desktop\Dota Config Manager\bin\Debug\Dota Config Manager.pdb
+D:\Desktop\Dota Config Manager\obj\Debug\Dota Config Manager.csproj.AssemblyReference.cache
+D:\Desktop\Dota Config Manager\obj\Debug\Dota Config Manager.exe.config
+D:\Desktop\Dota Config Manager\obj\Debug\Dota_Config_Manager.Form1.resources
+D:\Desktop\Dota Config Manager\obj\Debug\Dota_Config_Manager.Properties.Resources.resources
+D:\Desktop\Dota Config Manager\obj\Debug\Dota Config Manager.csproj.GenerateResource.cache
+D:\Desktop\Dota Config Manager\obj\Debug\Dota Config Manager.csproj.CoreCompileInputs.cache
+D:\Desktop\Dota Config Manager\obj\Debug\Dota Config Manager.exe
+D:\Desktop\Dota Config Manager\obj\Debug\Dota Config Manager.pdb
+C:\Users\stufuu\Desktop\Dota Config Manager\obj\Debug\Dota_Config_Manager.MainForm.resources
