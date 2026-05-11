@@ -2,7 +2,7 @@
 
 <img width="590" height="310" alt="Скриншот программы" src="https://github.com/user-attachments/assets/a98c71fd-fdfe-49de-8972-aa55a983ac6c" />
 
-**Как использовать?**
+**--- Как использовать? ---**
 
 **Видео гайд:**
 https://youtu.be/88kAkT2SPZI
